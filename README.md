@@ -1,5 +1,12 @@
 Projeto Interdisciplinar - Cadeia Produtiva Agro
 
+
+Integrantes: 
+Product Owner: Fhelipe Siqueira
+Scrum Master: Ricardo Freitas
+Scrum Team: Daniel Vidal, Felipe Leão, Gabriella Fernanda, Rafael Lima e Thiago Pereira.
+
+
 Esse repositório tem o objetivo de detalhar os processos utilizados referente ao Projeto API 1.
 
 Objetivos
