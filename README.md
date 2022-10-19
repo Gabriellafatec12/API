@@ -52,5 +52,63 @@ Sprint 2: 19/10/2022
 Sprint 3: 16/11/2022
 Sprint 4: 30/11/2022
 
+Power Bi 
 
+O Power BI é uma coleção de serviços de software, aplicativos e conectores que trabalham juntos para transformar suas fontes de dados não relacionadas em informações coerentes, visualmente envolventes e interativas 
+
+Base foi extraída sites: EMBRAPA e COMEX STAT. 
+ 
+Fontes: https://www.embrapa.br/ 
+http://comexstat.mdic.gov.br/pt/home 
+
+ 
+
+EXPORTAÇÃO 
+
+ 
+
+Gráfico 1 – Mapa interativo Exportação – Origem municípios RM Vale. 
+
+Nele conseguimos filtrar e interagir no próprio mapa ou na tabela, onde demonstrará origem, destino, produto, quantidade em FOB e peso no período do ano 2022 (Janeiro a Setembro). 
+
+Gráfico 2 – Soma Exportação 2022 – Valor FOB US$ por município. 
+ 
+Gráfico pizza demonstra o percentual do município frente todos os municípios da RM vale interagindo com a tabela no ano 2022, também e possível filtrar por item da tabela. 
+
+Gráfico 3 – Contagem de municípios por descrição Exportação SH4.   
+ 
+Gráfico rosca demonstra o percentual por SH4 (código de descrição do produto exportado contém quatro dígitos). Logo abaixo gráfico em barras relaciona meses com valor FOB em milhões referente todos os SH4. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IMPORTAÇÃO 
+
+ Gráfico 4 – Mapa interativo Importação – Destino municípios RM Vale.  
+
+Fonte: Próprios Autores 
+
+ 
+
+Neste conseguimos filtrar e interagir no próprio mapa ou na tabela, onde demonstrará origem, destino, produto, quantidade em FOB e peso no período do ano 2022 (Janeiro a Setembro). 
+
+
+Gráfico 5 – Soma Importação 2022 – Valor FOB US$ por município. 
+
+Fonte: Próprios Autores 
+
+
+Gráfico pizza demonstra o percentual do município frente todos os municípios da RM valem interagindo com a tabela no ano 2022, também e possível filtrar por item da tabela. 
+
+ 
+Gráfico 6 – Contagem de municípios por descrição Importação SH4.  
+ 
+Gráfico rosca demonstra o percentual por SH4 (código de descrição do produto exportado contém quatro dígitos). Logo abaixo gráfico em barras relaciona meses com valor FOB em milhões referente todos os SH4. 
 
