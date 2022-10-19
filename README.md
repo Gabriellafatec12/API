@@ -9,7 +9,7 @@ Scrum Team: Daniel Vidal, Felipe Leão, Gabriella Fernanda, Rafael Lima e Thiago
 
 Esse repositório tem o objetivo de detalhar os processos utilizados referente ao Projeto API 1.
 
-Aplicativo:
+Mapa interativo:
 https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=mobile_android&groupObjectId=&appId=&reportObjectId=c25c80cc-8851-4f0a-9190-46614635d3b7&reportPage=ReportSection&bookmarkGuid=cbb046b7-35c0-4273-819f-a4479e2c0d63
 
 Drive com os arquivos levantados para o desenvolvimento do projeto:
@@ -51,7 +51,6 @@ Sprint 1: 14/09/2022
 Sprint 2: 19/10/2022
 Sprint 3: 16/11/2022
 Sprint 4: 30/11/2022
-
 
 
 
