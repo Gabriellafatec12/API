@@ -9,6 +9,10 @@ Scrum Team: Daniel Vidal, Felipe Leão, Gabriella Fernanda, Rafael Lima e Thiago
 
 Esse repositório tem o objetivo de detalhar os processos utilizados referente ao Projeto API 1.
 
+Drive com os arquivos levantados para o desenvolvimento do projeto:
+https://drive.google.com/drive/folders/1kr0ZwLAlJP6hwwiL-wRQ6Mm5FR3rO7uF
+
+
 Objetivos
 
 O projeto API 1 tem a finalidade de analisar e caracterizar as atividades da cadeia produtiva do agronegócio, descrevendo os avanços anualmente nas importações e exportações, dentro da RMVALE. Deste modo, apresentaremos a movimentação das matérias primas e produtos, dentro da cadeia produtiva a ser trabalhada.
