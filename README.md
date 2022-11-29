@@ -4,6 +4,7 @@ Projeto Interdisciplinar - Cadeia Produtiva Agro
 Integrantes: 
 Product Owner: Fhelipe Siqueira
 Scrum Master: Ricardo Freitas
+<img src="![Ricardo_resized](https://user-images.githubusercontent.com/114450758/204672686-2bc40ec6-3bd7-42e0-b94e-5e4698fa408b.jpg)"width="500px" />
 Scrum Team: Daniel Vidal, Felipe Leão, Gabriella Fernanda, Rafael Lima e Thiago Pereira.
 
 
