@@ -25,8 +25,8 @@
    <td><a href="https://www.linkedin.com/in/daniel-vidal-baa073259"><img src="https://user-images.githubusercontent.com/114450758/204679341-2e3c061b-6724-483f-a8b9-732114206789.jpg" width="100px"> </a></td>
    <td><a href="https://www.linkedin.com/in/felipe-le%C3%A3o-ab11841b6"><img src="https://user-images.githubusercontent.com/114450758/204678842-47e46cb0-aa15-4cc5-8ccc-65c58e018fe5.jpg" width="100px"> </a></td>
    <td><a href="https://www.linkedin.com/in/gabriella-fernanda-5473881a2"><img src="https://user-images.githubusercontent.com/114450758/204678438-a7581413-d6ea-48fb-ab1c-7813dc6f8f1c.jpg" width="100px"> </a></td>
-   <td><a href="https://www.linkedin.com/in/rafael-lima-002022175"><img src="https://user-images.githubusercontent.com/114450758/204672686-2bc40ec6-3bd7-42e0-b94e-5e4698fa408b.jpg" width="100px"> </a></td>
-   <td><a href="https://www.linkedin.com/in/thiago-pereira-594683174"><img src="https://user-images.githubusercontent.com/114450758/204679006-edc007d0-4e70-491d-bfa1-26480b8caca1.jpg" width="90px"> </a></td>
+   <td><a href="https://www.linkedin.com/in/rafael-lima-002022175"><img src="https://user-images.githubusercontent.com/114450758/204685264-edfb43ae-9500-4b2e-bd4f-95c4a7ed924b.jpg" width="100px"> </a></td>
+   <td><a href="https://www.linkedin.com/in/thiago-pereira-594683174"><img src="https://user-images.githubusercontent.com/114450758/204685177-fb562021-6f64-49a1-95d2-285ab870b627.jpg" width="100px"> </a></td>
   </tr>
  
  </table>
@@ -51,17 +51,17 @@ One drive com os arquivos levantados para o desenvolvimento do projeto:
 
 
 
-<h1>🎯Objetivos</h1>
+<h1> 🎯Objetivos</h1>
 
 O projeto API 1 tem a finalidade de analisar e caracterizar as atividades da cadeia produtiva do agronegócio, descrevendo os avanços anualmente nas importações e exportações, dentro da RMVALE. Deste modo, apresentaremos a movimentação das matérias primas e produtos, dentro da cadeia produtiva a ser trabalhada.
 
 
-<h1>📚Métodos</h1>
+<h1> 📚Métodos</h1>
 
 O modelo a ser utilizado foi o modelo Scrum, onde são realizadas entregas denominadas de Sprint, no total 4 Sprint's. Esse repositório irá detalhar os avanços em cada um dos processos, de modo intuitivo e fácil para ser reproduzido. Neste repósitório, será anexado arquivos, protótipos, planilhas e outros documentos utilizados no processo.
 
 
-<h1>🛠️ Tecnologias</h1>
+<h1> 🛠️Tecnologias</h1>
 
 1. Power Platform
 
@@ -80,7 +80,7 @@ Com a finalidade de facilitar a visão das ideias a serem trabalhadas no projeto
 Tem a finalidade de acompanhar o desenvolvimento do projeto, onde conterá os arquivos utilizados para o desenvolvimento.
 
 
-<h1>📅Sprints</h1>
+<h1> 📅Sprint's</h1>
 
 Sprint 1: 14/09/2022  <a href="https://fatecspgov-my.sharepoint.com/:f:/g/personal/gabriella_santos12_fatec_sp_gov_br/Es3dyM79SSREkaPXcjqjNJsB_8eyiZq3rNzc9IiDF1wAwg?e=tK3B0d"><img src="https://user-images.githubusercontent.com/114450758/204683420-761be954-011f-4438-ace9-35381fa3009c.png" width="20px"> </a>
 
@@ -102,7 +102,7 @@ http://comexstat.mdic.gov.br/pt/home
 
  
 
-<h1>🚢Exportação </h1>
+<h1> 🚢Exportação </h1>
 
  
 
@@ -120,7 +120,7 @@ Gráfico rosca demonstra o percentual por SH4 (código de descrição do produto
 
  
 
-<h1>🚚Importação </h1>
+<h1> 🚚Importação </h1>
 
  Gráfico 4 – Mapa interativo Importação – Destino municípios RM Vale.  
 
