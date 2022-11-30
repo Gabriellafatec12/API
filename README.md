@@ -1,39 +1,67 @@
-Projeto Interdisciplinar - Cadeia Produtiva Agro
+<h2>Projeto Interdisciplinar - Cadeia Produtiva Agro </h2>
 
-
-Integrantes: 
-Product Owner: Fhelipe Siqueira
-Scrum Master: Ricardo Freitas
-div align="center"
-img src="![Ricardo_resized](https://user-images.githubusercontent.com/114450758/204672686-2bc40ec6-3bd7-42e0-b94e-5e4698fa408b.jpg)
-" width="0px" /
-/div
-Scrum Team: Daniel Vidal, Felipe Leão, Gabriella Fernanda, Rafael Lima e Thiago Pereira.
-
-
-Esse repositório tem o objetivo de detalhar os processos utilizados referente ao Projeto API 1.
+<table>
+  <tr>
+   <td>Fhelipe Siqueira</td>
+   <td>Ricardo Freitas</td>
+   <td>Daniel Vidal</td>
+   <td>Felipe Leão</td>
+   <td>Gabriella Fernanda</td>
+   <td>Rafael Lima</td>
+   <td>Thiago Pereira</td>
+ </tr>
+ <tr>
+   <td>Product Owner</td>
+   <td>Scrum Master</td>
+   <td>Scrum Team</td>
+   <td>Scrum Team</td>
+   <td>Scrum Team</td>
+   <td>Scrum Team</td>
+   <td>Scrum Team</td>
+  </tr>
+  </tr>
+   <td><a href="https://www.linkedin.com/in/fhelipesiqueira"><img src="https://user-images.githubusercontent.com/114450758/204678090-56327595-4a1d-46af-acf8-793f091448c4.jpg" width="100px"> </a> </td>
+   <td><a href="https://www.linkedin.com/in/ricardo-freitas-959663174"><img src="https://user-images.githubusercontent.com/114450758/204672686-2bc40ec6-3bd7-42e0-b94e-5e4698fa408b.jpg" width="100px"> </a></td>
+   <td><a href="https://www.linkedin.com/in/ricardo-freitas-959663174"><img src="https://user-images.githubusercontent.com/114450758/204679341-2e3c061b-6724-483f-a8b9-732114206789.jpg" width="100px"> </a></td>
+   <td><a href="https://www.linkedin.com/in/felipe-le%C3%A3o-ab11841b6"><img src="https://user-images.githubusercontent.com/114450758/204678842-47e46cb0-aa15-4cc5-8ccc-65c58e018fe5.jpg" width="100px"> </a></td>
+   <td><a href="https://www.linkedin.com/in/gabriella-fernanda-5473881a2"><img src="https://user-images.githubusercontent.com/114450758/204678438-a7581413-d6ea-48fb-ab1c-7813dc6f8f1c.jpg" width="100px"> </a></td>
+   <td><a href="https://www.linkedin.com/in/ricardo-freitas-959663174"><img src="https://user-images.githubusercontent.com/114450758/204672686-2bc40ec6-3bd7-42e0-b94e-5e4698fa408b.jpg" width="100px"> </a></td>
+   <td><a href="https://www.linkedin.com/in/thiago-pereira-594683174"><img src="https://user-images.githubusercontent.com/114450758/204679006-edc007d0-4e70-491d-bfa1-26480b8caca1.jpg" width="90px"> </a></td>
+  </tr>
+ 
+ </table>
+ 
 
 Aplicativo:
-https://apps.powerapps.com/play/e/default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/a/cc79ad91-c0dc-4fb8-884b-6bfb8740694d?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&source=portal
+
+
+<a href="https://apps.powerapps.com/play/e/default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/a/cc79ad91-c0dc-4fb8-884b-6bfb8740694d?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&source=portal"><img src="https://user-images.githubusercontent.com/114450758/204679902-91331245-0ae3-4212-a037-a63f5accee2c.jpg" width="100px"> </a>
+
 
 Mapa interativo:
-https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=mobile_android&groupObjectId=&appId=&reportObjectId=3c79e0e6-af2f-40ec-8cfb-58f2321c330f&reportPage=ReportSection661c7c5f09a377bc5c36&bookmarkGuid=3152b879-ddf4-48a7-b40f-8244306fd06b
+
+
+<a href="https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=mobile_android&groupObjectId=&appId=&reportObjectId=3c79e0e6-af2f-40ec-8cfb-58f2321c330f&reportPage=ReportSection661c7c5f09a377bc5c36&bookmarkGuid=3152b879-ddf4-48a7-b40f-8244306fd06b"><img src="https://user-images.githubusercontent.com/114450758/204679543-2d9cd94c-9d4d-4d75-bb9f-386df5814810.png" width="100px"> </a>
+
 
 One drive com os arquivos levantados para o desenvolvimento do projeto:
-https://fatecspgov-my.sharepoint.com/:f:/g/personal/gabriella_santos12_fatec_sp_gov_br/EovMkUsCCSJAuzow8BDN0EUBeZ3hurRoPqhmQXSrwhuBLg?e=9hqjcl
 
 
-Objetivos
+<a href="https://fatecspgov-my.sharepoint.com/:f:/g/personal/gabriella_santos12_fatec_sp_gov_br/EovMkUsCCSJAuzow8BDN0EUBeZ3hurRoPqhmQXSrwhuBLg?e=9hqjcl"><img src="https://user-images.githubusercontent.com/114450758/204680162-f6940b1b-c19d-40b1-a808-de0334a9a109.png" width="100px"> </a>
+
+
+
+<h1>🎯Objetivos</h1>
 
 O projeto API 1 tem a finalidade de analisar e caracterizar as atividades da cadeia produtiva do agronegócio, descrevendo os avanços anualmente nas importações e exportações, dentro da RMVALE. Deste modo, apresentaremos a movimentação das matérias primas e produtos, dentro da cadeia produtiva a ser trabalhada.
 
 
-Métodos
+<h1>📚Métodos</h1>
 
 O modelo a ser utilizado foi o modelo Scrum, onde são realizadas entregas denominadas de Sprint, no total 4 Sprint's. Esse repositório irá detalhar os avanços em cada um dos processos, de modo intuitivo e fácil para ser reproduzido. Neste repósitório, será anexado arquivos, protótipos, planilhas e outros documentos utilizados no processo.
 
 
-Tecnologias
+<h1>🛠️ Tecnologias</h1>
 
 1. Power Platform
 
@@ -52,11 +80,14 @@ Com a finalidade de facilitar a visão das ideias a serem trabalhadas no projeto
 Tem a finalidade de acompanhar o desenvolvimento do projeto, onde conterá os arquivos utilizados para o desenvolvimento.
 
 
-Sprint
+<h1>📅Sprints</h1>
 
 Sprint 1: 14/09/2022
+
 Sprint 2: 19/10/2022
+
 Sprint 3: 16/11/2022
+
 Sprint 4: 30/11/2022
 
 Power Bi 
@@ -70,7 +101,7 @@ http://comexstat.mdic.gov.br/pt/home
 
  
 
-EXPORTAÇÃO 
+<h1>🚢Expotação </h1>
 
  
 
@@ -88,15 +119,7 @@ Gráfico rosca demonstra o percentual por SH4 (código de descrição do produto
 
  
 
- 
-
- 
-
- 
-
- 
-
-IMPORTAÇÃO 
+<h1>🚚Importação </h1>
 
  Gráfico 4 – Mapa interativo Importação – Destino municípios RM Vale.  
 
