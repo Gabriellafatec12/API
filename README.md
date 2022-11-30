@@ -42,6 +42,15 @@ Mapa interativo:
 
 
 <a href="https://app.powerbi.com/links/i0Rcw5nV37?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare"><img src="https://user-images.githubusercontent.com/114450758/204679543-2d9cd94c-9d4d-4d75-bb9f-386df5814810.png" width="100px"> </a>
+  
+
+Coleta de dados automatizada:
+  
+
+
+https://user-images.githubusercontent.com/114450758/204919470-ab24fbb5-622a-4641-8c20-6f8c7023ec9e.mp4
+
+
 
 
 One drive com os arquivos levantados para o desenvolvimento do projeto:
