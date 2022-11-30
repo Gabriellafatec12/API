@@ -6,7 +6,7 @@
    <td>Ricardo Freitas</td>
    <td>Daniel Vidal</td>
    <td>Felipe Leão</td>
-   <td>Gabriella Fernanda</td>
+   <td>Gabriella Lima</td>
    <td>Rafael Lima</td>
    <td>Thiago Pereira</td>
  </tr>
@@ -20,12 +20,12 @@
    <td>Scrum Team</td>
   </tr>
   </tr>
-   <td><a href="https://www.linkedin.com/in/fhelipesiqueira"><img src="https://user-images.githubusercontent.com/114450758/204678090-56327595-4a1d-46af-acf8-793f091448c4.jpg" width="100px"> </a> </td>
+   <td><a href="https://www.linkedin.com/in/fhelipesiqueira"><img src="https://user-images.githubusercontent.com/114450758/204684857-c900704a-bdbc-403c-b8fa-5e4deacd6e3a.jpg" width=100px"> </a> </td>
    <td><a href="https://www.linkedin.com/in/ricardo-freitas-959663174"><img src="https://user-images.githubusercontent.com/114450758/204672686-2bc40ec6-3bd7-42e0-b94e-5e4698fa408b.jpg" width="100px"> </a></td>
-   <td><a href="https://www.linkedin.com/in/ricardo-freitas-959663174"><img src="https://user-images.githubusercontent.com/114450758/204679341-2e3c061b-6724-483f-a8b9-732114206789.jpg" width="100px"> </a></td>
+   <td><a href="https://www.linkedin.com/in/daniel-vidal-baa073259"><img src="https://user-images.githubusercontent.com/114450758/204679341-2e3c061b-6724-483f-a8b9-732114206789.jpg" width="100px"> </a></td>
    <td><a href="https://www.linkedin.com/in/felipe-le%C3%A3o-ab11841b6"><img src="https://user-images.githubusercontent.com/114450758/204678842-47e46cb0-aa15-4cc5-8ccc-65c58e018fe5.jpg" width="100px"> </a></td>
    <td><a href="https://www.linkedin.com/in/gabriella-fernanda-5473881a2"><img src="https://user-images.githubusercontent.com/114450758/204678438-a7581413-d6ea-48fb-ab1c-7813dc6f8f1c.jpg" width="100px"> </a></td>
-   <td><a href="https://www.linkedin.com/in/ricardo-freitas-959663174"><img src="https://user-images.githubusercontent.com/114450758/204672686-2bc40ec6-3bd7-42e0-b94e-5e4698fa408b.jpg" width="100px"> </a></td>
+   <td><a href="https://www.linkedin.com/in/rafael-lima-002022175"><img src="https://user-images.githubusercontent.com/114450758/204672686-2bc40ec6-3bd7-42e0-b94e-5e4698fa408b.jpg" width="100px"> </a></td>
    <td><a href="https://www.linkedin.com/in/thiago-pereira-594683174"><img src="https://user-images.githubusercontent.com/114450758/204679006-edc007d0-4e70-491d-bfa1-26480b8caca1.jpg" width="90px"> </a></td>
   </tr>
  
@@ -82,13 +82,14 @@ Tem a finalidade de acompanhar o desenvolvimento do projeto, onde conterá os ar
 
 <h1>📅Sprints</h1>
 
-Sprint 1: 14/09/2022
+Sprint 1: 14/09/2022  <a href="https://fatecspgov-my.sharepoint.com/:f:/g/personal/gabriella_santos12_fatec_sp_gov_br/Es3dyM79SSREkaPXcjqjNJsB_8eyiZq3rNzc9IiDF1wAwg?e=tK3B0d"><img src="https://user-images.githubusercontent.com/114450758/204683420-761be954-011f-4438-ace9-35381fa3009c.png" width="20px"> </a>
 
-Sprint 2: 19/10/2022
+Sprint 2: 19/10/2022  <a href="https://fatecspgov-my.sharepoint.com/:f:/g/personal/gabriella_santos12_fatec_sp_gov_br/EpiySkg6O05OiruklNCQZaEBzk5758cuBNKgOh6k55ws-A?e=QphC78"><img src="https://user-images.githubusercontent.com/114450758/204683420-761be954-011f-4438-ace9-35381fa3009c.png" width="20px"> </a>
 
-Sprint 3: 16/11/2022
+Sprint 3: 16/11/2022  <a href="https://fatecspgov-my.sharepoint.com/:f:/g/personal/gabriella_santos12_fatec_sp_gov_br/EgCFc7RFP8BOss7L8unQc00BHY2sAbOj3J_UTxOGfbnnzw?e=cLcHlH"><img src="https://user-images.githubusercontent.com/114450758/204683420-761be954-011f-4438-ace9-35381fa3009c.png" width="20px"> </a>
 
-Sprint 4: 30/11/2022
+Sprint 4: 30/11/2022  <a href="https://fatecspgov-my.sharepoint.com/:f:/g/personal/gabriella_santos12_fatec_sp_gov_br/EvY91hWAKfdPg_Vvu9CsUzkBei3r-fBfjmJUKhf4AejaRA?e=IA7UNL"><img src="https://user-images.githubusercontent.com/114450758/204683420-761be954-011f-4438-ace9-35381fa3009c.png" width="20px"> </a>
+
 
 Power Bi 
 
@@ -101,7 +102,7 @@ http://comexstat.mdic.gov.br/pt/home
 
  
 
-<h1>🚢Expotação </h1>
+<h1>🚢Exportação </h1>
 
  
 
